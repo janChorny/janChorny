@@ -19,13 +19,15 @@
 ### :man_technologist: About Me :
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
+- 📺 watch my self-introduction [![Youtube Badge](https://img.shields.io/badge/-JanChorny-red?style=flat&logo=Youtube&logoColor=white)]([https://www.linkedin.com/in/jan-chorny-b71b4a226/](https://youtu.be/VE8yUIvbDLc)) 
+
 - 🌱 currently learning Front-End at <a href="https://rs.school/">Rolling Scopes School</a>.
 
 - 👨‍💼 looking forward to deepen my knowledge and experience, to become a part of a great company and team with an ability to implement something useful in the environment and, of course, to increase my revenue.
 
 - 🥊 besides programming I’m fond of sports, travelling, watching movies, listening to music and learning foreign languages.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JanChorny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jan-chorny-b71b4a226/)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-janchorny@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](mailto:janchorny@gmail.com)
 
 ---
 
