@@ -39,6 +39,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <li><a href="https://janchorny.github.io/freelancer-for-life_gocorona_landing/">Gocorna</a></li>
   <li><a href="https://janchorny.github.io/cssMemSlider/cssMemSlider/index.html">Mem slider</a></li>
   <li><a href="https://janchorny.github.io/virtual-keybord/">Virtual Keybord</a></li>
+  <li><a href="https://janchorny.github.io/rsschool-cv/">CV</a></li>
 </ul>
 
 ---
