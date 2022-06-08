@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Jan
+
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+
+🌱 I’m currently learning Front-End at Rolling Scopes School
+
+
 
 <!--
 **janChorny/janChorny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
