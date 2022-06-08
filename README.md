@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="200"/>
 </div>
 
-🌱 I’m currently learning Front-End at Rolling Scopes School
+🌱 I’m currently learning Front-End at <a href="https://rs.school/">Rolling Scopes School</a>
 
 
 
