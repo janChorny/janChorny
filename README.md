@@ -21,7 +21,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 📺 watch my self-introduction [![Youtube Badge](https://img.shields.io/badge/-JanChorny-red?style=flat&logo=Youtube&logoColor=white)](https://youtu.be/VE8yUIvbDLc) 
 
-- 🌱 currently learning Front-End at <a href="https://rs.school/">Rolling Scopes School</a>.
+- 🌱 currently studying Front-End at <a href="https://rs.school/">Rolling Scopes School</a>.
 
 - 👨‍💼 looking forward to deepen my knowledge and experience, to become a part of a great company and team with an ability to implement something useful in the environment and, of course, to increase my revenue.
 
