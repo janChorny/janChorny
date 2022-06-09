@@ -27,7 +27,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 🥊 besides programming I’m fond of sports, travelling, watching movies, listening to music and learning foreign languages.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-janchorny@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](mailto:janchorny@gmail.com)
+- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-janchorny@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](mailto:janchorny@gmail.com)
 
 ---
 
