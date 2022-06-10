@@ -47,7 +47,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Programming languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -63,6 +63,18 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VSCode" width="40" height="40"/>
 </div>
+
+---
+
+### 💬 Languages :
+
+<ul>
+  <li>English (B2)</li>
+  <li>German (A2)</li>
+  <li>Spanish (A1)</li>
+  <li>Belarusian (C2)</li>
+  <li>Russian (C2)</li>
+</ul>
 
 ---
 
