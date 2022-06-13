@@ -41,7 +41,6 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <li><a href="https://janchorny.github.io/freelancer-for-life_relvise/">Relvise</a></li>
   <li><a href="https://janchorny.github.io/freelancer-for-life_gocorona_landing/">Gocorna</a></li>
   <li><a href="https://janchorny.github.io/cssMemSlider/cssMemSlider/index.html">Mem slider</a></li>
-  <li><a href="https://janchorny.github.io/virtual-keybord/">Virtual Keyboard</a></li>
   <li><a href="https://janchorny.github.io/rsschool-cv/">CV</a></li>
 </ul>
 
@@ -62,6 +61,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VSCode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
 </div>
 
 ---
