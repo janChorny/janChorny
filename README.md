@@ -33,6 +33,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### 🏗️ My projects :
 <ul>
+  <li><a href="https://rslang-freenokke.netlify.app/">English studying App</a></li>
   <li><a href="https://janchorny.github.io/rsschool_stage-0_landing-and-video-player/">Photographer landing with video player</a></li>
   <li><a href="https://janchorny.github.io/Shelter/pages/main/">Shelter multipage</a></li>
   <li><a href="https://janchorny.github.io/rsschool_stage-0_video-searcher/">Video searcher</a></li>
