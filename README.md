@@ -91,7 +91,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janChorny&layout=compact&theme=vision-friendly-dark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/janChorny/janChorny/output/github-contribution-grid-snake.svg" />
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/janChorny/janChorny/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/janChorny/janChorny/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </div>
 
 <!--
