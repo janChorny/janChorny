@@ -32,10 +32,10 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <ul>
   <li><a href="https://project-management-app.onrender.com/">Project management App</a> (Angular used, wait a bit to start)</li>
   <li><a href="https://rslang-freenokke.netlify.app/">English studying App</a> (try games to study English)</li>
-  <li><a href="https://janchorny.github.io/Shelter/pages/main/">Shelter for pets in Boston</a> (sliders, pagination and custom popups)</li>
+  <li><a href="https://janchorny.github.io/shelter/pages/main/">Shelter for pets in Boston</a> (sliders, pagination and custom popups)</li>
   <li><a href="https://janchorny.github.io/photographer/">Photographer landing page</a> (gallery, custom video player, multilingual and theme change)</li>
-  <li><a href="https://janchorny.github.io/rsschool_stage-0_video-searcher/">Video searcher</a> (use with VPN for proper work)</li>
-  <li><a href="https://janchorny.github.io/rsschool_stage-0_games_tic-tac-toe/">Tic-tac-toe game</a> (scores results)</li>
+  <li><a href="https://janchorny.github.io/video-searcher/">Video searcher</a> (use with VPN for proper work)</li>
+  <li><a href="https://janchorny.github.io/tic-tac-toe/">Tic-tac-toe game</a> (scores results)</li>
   <li><a href="https://janchorny.github.io/html-academy/">HTML academy</a> (final task landing)</li>
   <li><a href="https://janchorny.github.io/relvise/">Relvise</a></li>
   <li><a href="https://janchorny.github.io/gocorona/">Gocorna</a></li>
