@@ -30,7 +30,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### 🏗️ My projects :
 <ul>
-  <li><a href="https://project-management-app.onrender.com/">Project management App</a></li>
+  <li><a href="https://project-management-app.onrender.com/">Project management App</a> Angular used, wait to start</li>
   <li><a href="https://rslang-freenokke.netlify.app/">English studying App</a></li>
   <li><a href="https://janchorny.github.io/Shelter/pages/main/">Shelter for pets in Boston</a> (sliders, pagination and custom popups)</li>
   <li><a href="https://janchorny.github.io/rsschool_stage-0_landing-and-video-player/">Photographer landing page</a> (gallery, custom video player, multilingual and theme change)</li>
