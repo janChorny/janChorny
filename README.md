@@ -36,11 +36,9 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <li><a href="https://janchorny.github.io/rsschool_stage-0_landing-and-video-player/">Photographer landing page</a> (gallery, custom video player, multilingual and theme change)</li>
   <li><a href="https://janchorny.github.io/rsschool_stage-0_video-searcher/">Video searcher</a> (use with VPN for proper work)</li>
   <li><a href="https://janchorny.github.io/rsschool_stage-0_games_tic-tac-toe/">Tic-tac-toe game</a> (scores results)</li>
-  <li><a href="https://janchorny.github.io/html-academy/">HTML academy</a></li>
+  <li><a href="https://janchorny.github.io/html-academy/">HTML academy</a> (final task landing)</li>
   <li><a href="https://janchorny.github.io/freelancer-for-life_relvise/">Relvise</a></li>
   <li><a href="https://janchorny.github.io/freelancer-for-life_gocorona_landing/">Gocorna</a></li>
-  <li><a href="https://janchorny.github.io/cssMemSlider/cssMemSlider/index.html">Mem slider</a></li>
-  <li><a href="https://janchorny.github.io/rsschool-cv/">CV</a></li>
 </ul>
 
 ---
