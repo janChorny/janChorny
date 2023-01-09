@@ -87,9 +87,9 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <img src="https://www.codewars.com/users/janChorny/badges/large" alt=""/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janChorny&hide=stars,issues,contribs&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janChorny&hide=issues,contribs&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janChorny&layout=compact&theme=vision-friendly-dark&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janChorny&layout=compact&theme=merko&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **janChorny/janChorny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
