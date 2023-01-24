@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/jan-chorny/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://discordapp.com/users/908057931122102272/">
+    <img src="https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+  </a>
   <a href="https://www.instagram.com/jan_chorny/?hl=ru">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
