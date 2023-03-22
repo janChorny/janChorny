@@ -69,6 +69,10 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <a href="https://rxjs.dev/"><img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" title="RxJS" alt="RxJS" width="40" height="40"/></a>&nbsp;
   <a href="https://ngrx.io/"><img src="https://ngrx.io/assets/images/badge.svg" title="NgRx" alt="NgRx" width="40" height="40"/></a>&nbsp;
   <a href="https://www.primefaces.org/primeng/"><img src="https://www.primefaces.org/primeng/assets/showcase/images/primeng-logo-dark.svg" title="PrimeNg" alt="PrimeNg" width="100" height="40"/></a>&nbsp;
+  <a href="https://nestjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/></a>&nbsp;
+  <a href="https://graphql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
+  <a href="https://jestjs.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/></a>&nbsp;
 </div>
 
 ---
