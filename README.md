@@ -21,7 +21,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 📺 watch my self-introduction [![Youtube Badge](https://img.shields.io/badge/-JanChorny-red?style=flat&logo=Youtube&logoColor=white)](https://youtu.be/VE8yUIvbDLc) 
 
-- 🌱 currently studying Front-End at <a href="https://rs.school/">Rolling Scopes School</a>.
+- :telescope: explore Front-End with <a href="https://rs.school/">Rolling Scopes School</a>.
 
 - 👨‍💼 looking forward to deepen my knowledge and experience, to become a part of a great company and team with an ability to implement something useful in the environment and, of course, to increase my revenue.
 
@@ -33,6 +33,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### 🏗️ My projects :
 <ul>
+  <li><a href="https://deploy-preview-9--react-final-task.netlify.app/">GrapiQl playground</a> (React used)</li>
   <li><a href="https://project-management-app.onrender.com/">Project management App</a> (Angular used, wait a bit to start)</li>
   <li><a href="https://rslang-freenokke.netlify.app/">English studying App</a> (try games to study English)</li>
   <li><a href="https://janchorny.github.io/shelter/pages/main/">Shelter for pets in Boston</a> (sliders, pagination and custom popups)</li>
@@ -68,11 +69,22 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <a href="https://material.angular.io/"><img src="https://material.angular.io/assets/img/angular-material-logo.svg" title="Angular Material" alt="Angular Material" width="40" height="40"/></a>&nbsp;
   <a href="https://rxjs.dev/"><img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" title="RxJS" alt="RxJS" width="40" height="40"/></a>&nbsp;
   <a href="https://ngrx.io/"><img src="https://ngrx.io/assets/images/badge.svg" title="NgRx" alt="NgRx" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.primefaces.org/primeng/"><img src="https://www.primefaces.org/primeng/assets/showcase/images/primeng-logo-dark.svg" title="PrimeNg" alt="PrimeNg" width="100" height="40"/></a>&nbsp;
+  <a href="https://www.primefaces.org/primeng/"><img src="https://primefaces.org/cdn/primeng/images/primeng-logo-dark.svg" title="PrimeNg" alt="PrimeNg" width="100" height="40"/></a>&nbsp;
   <a href="https://nestjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/></a>&nbsp;
+  <a href="https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
+  <a href="https://redux.js.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/></a>&nbsp;
+  <a href="https://reactrouter.com/en/main"><img src="https://cdn.freebiesupply.com/logos/large/2x/react-router-logo-png-transparent.png" title="React Router" alt="React Router" width="60" height="40"/></a>&nbsp;
+  <a href="https://www.react-hook-form.com/"><img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" title="React Hook Form" alt="React Hook Form" width="40" height="40"/></a>&nbsp;
+  <a href="https://react.i18next.com/"><img src="https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F4042378089-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6WpW81N7RGRTQ-K%252Favatar.png%3Fgeneration%3D1523345851027218%26alt%3Dmedia" title="React i18next" alt="React i18next" width="40" height="40"/></a>&nbsp;
+  <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="40" height="40"/></a>&nbsp;
   <a href="https://graphql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://expressjs.com/"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="Express" alt="Express" width="40" height="40"/></a>&nbsp;
+  <a href="https://swagger.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" title="Swagger" alt="Swagger" width="40" height="40"/></a>&nbsp;
   <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgeSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
   <a href="https://jestjs.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.cypress.io/"><img src="https://www.cypress.io/images/layouts/navbar-brand.svg" title="Cypress" alt="Cypress" width="70" height="30"/></a>&nbsp;
+  <a href="https://www.netlify.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40"/></a>&nbsp;
 </div>
 
 ---
