@@ -33,6 +33,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### 🏗️ My projects :
 <ul>
+  <li><a href="https://technotes-0ban.onrender.com/dash">Technotes</a> (modified fullstack MERN project by Dave Gray, use 'Jack' and 'Ja12345' to enter)</li>
   <li><a href="https://deploy-preview-9--react-final-task.netlify.app/">GrapiQl playground</a> (React used)</li>
   <li><a href="https://project-management-app.onrender.com/">Project management App</a> (Angular used, wait a bit to start)</li>
   <li><a href="https://rslang-freenokke.netlify.app/">English studying App</a> (try games to study English)</li>
