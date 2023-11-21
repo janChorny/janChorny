@@ -17,11 +17,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
 - 📺 watch my self-introduction [![Youtube Badge](https://img.shields.io/badge/-JanChorny-red?style=flat&logo=Youtube&logoColor=white)](https://youtu.be/VE8yUIvbDLc) 
 
-- :telescope: explore Front-End with <a href="https://rs.school/">Rolling Scopes School</a>.
+- :telescope: explore Front-End and Back-End with <a href="https://rs.school/">Rolling Scopes School</a> and <a href="https://www.youtube.com/@DaveGrayTeachesCode">Dave Gray</a>.
 
 - 👨‍💼 looking forward to deepen my knowledge and experience, to become a part of a great company and team with an ability to implement something useful in the environment and, of course, to increase my revenue.
 
@@ -60,8 +60,6 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/></a>&nbsp;
   <a href="https://www.adobe.com/cis_ru/products/photoshop.html"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/></a>&nbsp;
   <a href="https://wordpress.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>&nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VSCode" width="40" height="40"/></a>&nbsp;
   <a href="https://webpack.js.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/></a>&nbsp;
@@ -84,8 +82,9 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
   <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgeSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
   <a href="https://jestjs.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.cypress.io/"><img src="https://www.cypress.io/images/layouts/navbar-brand.svg" title="Cypress" alt="Cypress" width="70" height="30"/></a>&nbsp;
-  <a href="https://www.netlify.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.cypress.io/"><img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" title="Cypress" alt="Cypress" width="70" height="30"/></a>&nbsp;
+  <a href="https://www.netlify.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40"/><a/>&nbsp;
+  <a href="https://www.render.com/"><img src="https://avatars.githubusercontent.com/u/42682871?s=280&v=4" title="Render" alt="Render" width="40" height="40"/></a>&nbsp;
 </div>
 
 ---
