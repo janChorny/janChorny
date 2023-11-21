@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 📺 watch my self-introduction [![Youtube Badge](https://img.shields.io/badge/-JanChorny-red?style=flat&logo=Youtube&logoColor=white)](https://youtu.be/VE8yUIvbDLc) 
 
