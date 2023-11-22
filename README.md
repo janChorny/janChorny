@@ -76,6 +76,7 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <a href="https://www.react-hook-form.com/"><img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" title="React Hook Form" alt="React Hook Form" width="40" height="40"/></a>&nbsp;
   <a href="https://react.i18next.com/"><img src="https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F4042378089-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6WpW81N7RGRTQ-K%252Favatar.png%3Fgeneration%3D1523345851027218%26alt%3Dmedia" title="React i18next" alt="React i18next" width="40" height="40"/></a>&nbsp;
   <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="40" height="40"/></a>&nbsp;
+  <a href="https://nextjs.org/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RpUfSAFP--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8otweo5ef6kwc26rmxe5.png" title="NextJS" alt="NextJ" width="40" height="40"/></a>&nbsp;
   <a href="https://graphql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/></a>&nbsp;
   <a href="https://expressjs.com/"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="Express" alt="Express" width="40" height="40"/></a>&nbsp;
   <a href="https://swagger.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" title="Swagger" alt="Swagger" width="40" height="40"/></a>&nbsp;
@@ -85,6 +86,7 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <a href="https://www.cypress.io/"><img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" title="Cypress" alt="Cypress" width="70" height="30"/></a>&nbsp;
   <a href="https://www.netlify.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40"/><a/>&nbsp;
   <a href="https://www.render.com/"><img src="https://avatars.githubusercontent.com/u/42682871?s=280&v=4" title="Render" alt="Render" width="40" height="40"/></a>&nbsp;
+  <a href="https://vercel.com/home"><img src="https://pbs.twimg.com/media/F3BW7x3bwAATNkj?format=png&name=4096x4096" title="Vercel" alt="Vercel" width="70" height="40"/></a>&nbsp;
 </div>
 
 ---
