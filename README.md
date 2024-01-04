@@ -33,8 +33,9 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### 🏗️ My projects :
 <ul>
-  <li><a href="https://technotes-0ban.onrender.com/dash">Technotes</a> (modified fullstack MERN project by Dave Gray, use 'Jack' and 'Ja12345' to enter)</li>
-  <li><a href="https://deploy-preview-9--react-final-task.netlify.app/">GrapiQl playground</a> (React used)</li>
+  <li><a href="https://wedding-cortege.vercel.app/">Wedding cars rent</a> (NextJS app, react-hook-form, internationalization with next-intl, dark/light mode with next-themes, nodemailer, swiper)</li> 
+  <li><a href="https://technotes-0ban.onrender.com/dash">Technotes</a> (fullstack MERN project, use 'Jack' and 'Ja12345' to enter)</li>
+  <li><a href="https://deploy-preview-9--react-final-task.netlify.app/">GrapiQl playground</a> (React, auth with firebase, internationalization with i18next)</li>
   <li><a href="https://project-management-app.onrender.com/">Project management App</a> (Angular used, wait a bit to start)</li>
   <li><a href="https://rslang-freenokke.netlify.app/">English studying App</a> (try games to study English)</li>
   <li><a href="https://janchorny.github.io/shelter/pages/main/">Shelter for pets in Boston</a> (sliders, pagination and custom popups)</li>
