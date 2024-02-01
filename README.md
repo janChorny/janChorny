@@ -84,7 +84,7 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
   <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgeSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
   <a href="https://jestjs.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.cypress.io/"><img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" title="Cypress" alt="Cypress" width="70" height="30"/></a>&nbsp;
+  <a href="https://www.cypress.io/"><img src="https://www.cypress.io/_astro/navbar-brand._O9_em9E.svg" title="Cypress" alt="Cypress" width="70" height="30"/></a>&nbsp;
   <a href="https://www.netlify.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40"/><a/>&nbsp;
   <a href="https://www.render.com/"><img src="https://avatars.githubusercontent.com/u/42682871?s=280&v=4" title="Render" alt="Render" width="40" height="40"/></a>&nbsp;
   <a href="https://vercel.com/home"><img src="https://pbs.twimg.com/media/F3BW7x3bwAATNkj?format=png&name=4096x4096" title="Vercel" alt="Vercel" width="70" height="40"/></a>&nbsp;
