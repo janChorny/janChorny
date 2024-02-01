@@ -34,7 +34,6 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ### 🏗️ My projects :
 <ul>
   <li><a href="https://wedding-cortege.vercel.app/">Wedding cars rent</a> (NextJS app, react-hook-form, internationalization with next-intl, dark/light mode with next-themes, nodemailer, swiper)</li> 
-  <li><a href="https://funny-pony-68b758.netlify.app/">Educont landing page</a> (Vanilla JS, swiper)</li> 
   <li><a href="https://technotes-0ban.onrender.com/dash">Technotes</a> (fullstack MERN project, use 'Jack' and 'Ja12345' to enter)</li>
   <li><a href="https://deploy-preview-9--react-final-task.netlify.app/">GrapiQl playground</a> (React, auth with firebase, internationalization with i18next)</li>
   <li><a href="https://project-management-app.onrender.com/">Project management App</a> (Angular used, wait a bit to start)</li>
@@ -44,6 +43,7 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <li><a href="https://janchorny.github.io/video-searcher/">Video searcher</a> (use with VPN for proper work)</li>
   <li><a href="https://janchorny.github.io/tic-tac-toe/">Tic-tac-toe game</a> (scores results)</li>
   <li><a href="https://janchorny.github.io/html-academy/">HTML academy</a> (final task landing)</li>
+  <li><a href="https://funny-pony-68b758.netlify.app/">Educont landing page</a> (Vanilla JS, swiper)</li> 
   <li><a href="https://janchorny.github.io/relvise/">Relvise</a></li>
   <li><a href="https://janchorny.github.io/gocorona/">Gocorna</a></li>
 </ul>
