@@ -34,7 +34,7 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ### 🏗️ My projects :
 <ul>
   <li><a href="https://wedding-cortege.vercel.app/">Wedding cars rent</a> (NextJS, react-hook-form, internationalization with next-intl, dark/light mode with next-themes, nodemailer, swiper)</li> 
-  <li><a href="https://questionnaire-wdpi.onrender.com/)">Questionnaire</a> (fullstack role based MERN project, use 'user' and 'password' to vue results as a "Manager" role. All pictures were changed to mocks due to sensitive perception). See questionnaire front and back repositories.</li>
+  <li><a href="https://questionnaire-wdpi.onrender.com/">Questionnaire</a> (fullstack role based MERN project, use 'user' and 'password' to vue results as a "Manager" role. All pictures were changed to mocks due to sensitive perception). See questionnaire front and back repositories.</li>
   <li><a href="https://deploy-preview-9--react-final-task.netlify.app/">GrapiQl playground</a> (React, auth with firebase, internationalization with i18next)</li>
   <li><a href="https://project-management-app.onrender.com/">Project management App</a> (Angular used, wait a bit to start)</li>
   <li><a href="https://rslang-freenokke.netlify.app/">English studying App</a> (try games to study English)</li>
