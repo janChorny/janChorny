@@ -31,7 +31,7 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-### 🏗️ My projects :
+### 🏗️ Some of my projects :
 <ul>
   <li><a href="https://wedding-cortege.vercel.app/">Wedding cars rent</a> (NextJS, react-hook-form, internationalization with next-intl, dark/light mode with next-themes, nodemailer, swiper)</li> 
   <li><a href="https://questionnaire-wdpi.onrender.com/">Questionnaire</a> (fullstack role based MERN project, use 'user' and 'password' to vue results as a "Manager" role. All pictures were changed to mocks due to sensitive perception). See questionnaire front and back repositories.</li>
@@ -44,8 +44,6 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <li><a href="https://janchorny.github.io/tic-tac-toe/">Tic-tac-toe game</a> (scores results)</li>
   <li><a href="https://janchorny.github.io/html-academy/">HTML academy</a> (final task landing)</li>
   <li><a href="https://funny-pony-68b758.netlify.app/">Educont landing page</a> (Vanilla JS, swiper)</li> 
-  <li><a href="https://janchorny.github.io/relvise/">Relvise</a></li>
-  <li><a href="https://janchorny.github.io/gocorona/">Gocorna</a></li>
 </ul>
 
 ---
