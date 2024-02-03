@@ -63,9 +63,6 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <a href="https://graphql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/></a>&nbsp;
   <a href="https://expressjs.com/"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="Express" alt="Express" width="40" height="40"/></a>&nbsp;
   <a href="https://nestjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgeSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.mongodb.com"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></a>&nbsp;
 
 ---
 
