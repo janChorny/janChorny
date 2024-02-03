@@ -51,43 +51,21 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ### :hammer_and_wrench: Programming languages and Tools :
 
 <div>
-  <a href="https://www.w3schools.com/html/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.w3schools.com/css/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
   <a href="https://sass-lang.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/></a>&nbsp;
   <a href="https://learn.javascript.ru/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
   <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
   <a href="https://nodejs.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.figma.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.adobe.com/cis_ru/products/photoshop.html"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/></a>&nbsp;
   <a href="https://wordpress.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/></a>&nbsp;
-  <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" **alt="VSCode" width="40" height="40"/></a>&nbsp;
-  <a href="https://webpack.js.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/></a>&nbsp;
-  <a href="https://trello.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="40" height="40"/></a>&nbsp;
     <a href="https://angular.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular MaterialL" width="40" height="40"/></a>&nbsp;
-  <a href="https://material.angular.io/"><img src="https://material.angular.io/assets/img/angular-material-logo.svg" title="Angular Material" alt="Angular Material" width="40" height="40"/></a>&nbsp;
-  <a href="https://rxjs.dev/"><img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" title="RxJS" alt="RxJS" width="40" height="40"/></a>&nbsp;
-  <a href="https://ngrx.io/"><img src="https://ngrx.io/assets/images/badge.svg" title="NgRx" alt="NgRx" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.primefaces.org/primeng/"><img src="https://primefaces.org/cdn/primeng/images/primeng-logo-dark.svg" title="PrimeNg" alt="PrimeNg" width="100" height="40"/></a>&nbsp;
-  <a href="https://nestjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/></a>&nbsp;
   <a href="https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
   <a href="https://redux.js.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/></a>&nbsp;
-  <a href="https://reactrouter.com/en/main"><img src="https://cdn.freebiesupply.com/logos/large/2x/react-router-logo-png-transparent.png" title="React Router" alt="React Router" width="60" height="40"/></a>&nbsp;
-  <a href="https://www.react-hook-form.com/"><img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" title="React Hook Form" alt="React Hook Form" width="40" height="40"/></a>&nbsp;
-  <a href="https://react.i18next.com/"><img src="https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F4042378089-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6WpW81N7RGRTQ-K%252Favatar.png%3Fgeneration%3D1523345851027218%26alt%3Dmedia" title="React i18next" alt="React i18next" width="40" height="40"/></a>&nbsp;
-  <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" title="Vite" alt="Vite" width="40" height="40"/></a>&nbsp;
   <a href="https://nextjs.org/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RpUfSAFP--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8otweo5ef6kwc26rmxe5.png" title="NextJS" alt="NextJ" width="40" height="40"/></a>&nbsp;
   <a href="https://graphql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/></a>&nbsp;
   <a href="https://expressjs.com/"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="Express" alt="Express" width="40" height="40"/></a>&nbsp;
-  <a href="https://swagger.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" title="Swagger" alt="Swagger" width="40" height="40"/></a>&nbsp;
+  <a href="https://nestjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/></a>&nbsp;
   <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>&nbsp;
   <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgeSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
-  <a href="https://jestjs.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.cypress.io/"><img src="https://www.cypress.io/_astro/navbar-brand._O9_em9E.svg" title="Cypress" alt="Cypress" width="70" height="30"/></a>&nbsp;
-  <a href="https://www.netlify.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40"/><a/>&nbsp;
-  <a href="https://www.render.com/"><img src="https://avatars.githubusercontent.com/u/42682871?s=280&v=4" title="Render" alt="Render" width="40" height="40"/></a>&nbsp;
-  <a href="https://vercel.com/home"><img src="https://pbs.twimg.com/media/F3BW7x3bwAATNkj?format=png&name=4096x4096" title="Vercel" alt="Vercel" width="70" height="40"/></a>&nbsp;
-</div>
+  <a href="https://www.mongodb.com"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></a>&nbsp;
 
 ---
 
