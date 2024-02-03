@@ -54,15 +54,15 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <a href="https://sass-lang.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/></a>&nbsp;
   <a href="https://learn.javascript.ru/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
   <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/></a>&nbsp;
-  <a href="https://nodejs.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
-  <a href="https://wordpress.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/></a>&nbsp;
-    <a href="https://angular.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular MaterialL" width="40" height="40"/></a>&nbsp;
+  <a href="https://angular.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular MaterialL" width="40" height="40"/></a>&nbsp;
   <a href="https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
   <a href="https://redux.js.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/></a>&nbsp;
   <a href="https://nextjs.org/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RpUfSAFP--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8otweo5ef6kwc26rmxe5.png" title="NextJS" alt="NextJ" width="40" height="40"/></a>&nbsp;
-  <a href="https://graphql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://nodejs.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></a>&nbsp;
   <a href="https://expressjs.com/"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="Express" alt="Express" width="40" height="40"/></a>&nbsp;
+  <a href="https://graphql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/></a>&nbsp;
   <a href="https://nestjs.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/></a>&nbsp;
+  <a href="https://wordpress.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/></a>&nbsp;
 
 ---
 
